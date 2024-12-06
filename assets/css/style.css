@@ -1,0 +1,132 @@
+/* Your styles here */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E9EDEE;
+}
+header img {
+    text-align: left;
+    width: 115px;
+    padding-bottom: 100 rem;
+}
+header {
+    padding-left: 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.bg-dark {
+    background-color: #222f3e;
+}
+
+nav ul {
+    background-color: #364759;
+    padding-left: 1rem;
+}
+nav ul li {
+    color: white;
+    display: inline-block;
+    padding: 0.5rem;
+}
+nav ul:hover{
+    cursor: pointer;
+}
+nav ul li:hover {
+    background-color: #222f3e;
+    color: #364759;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+main {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.text-center {
+    text-align: center;
+    width: 100%;
+}
+.bg-yellowtext-centerpy-1 {
+    background-color: #F56600;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 0.5rem 0;
+    margin: 2rem 0;
+}
+#headbg {
+    background-image:url(../images/bg-image.png);
+    padding: 4rem;
+    margin-bottom: 2rem;
+}
+h1 {
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+#headft {
+    color: white;
+    text-align: center;
+    padding-top: 1.3rem;
+}
+article {
+    background-color: white;
+    padding: 1rem 1.5rem;
+    padding-right: 0;
+    margin: 0 1.5rem;
+}
+.artimg {
+    width: 19.5rem;
+    height: 22rem;
+    border-radius: 8%;
+    box-shadow: 0.5rem 0.5rem 1rem;
+    color: rgba(136, 132, 132, 0.329);
+
+}
+#inlimg li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 1.2rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+    padding-bottom: 1rem;
+}
+h2 a {
+    font-size: 1rem;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 1rem;
+    color: #156275;
+}
+.hcapt {
+    text-align: center;
+    padding: 0.2rem;
+}
+section{
+    padding: 1.5rem;
+    margin-top: 0.5rem;
+}
+section img {
+    width: 100%;
+    height: 100%;
+}
+#bg-darktext {
+    background-color: #36475A;
+    text-align: center;
+    padding: 1rem;
+}
+#bg-darktext span a {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    background-color: #222f3e;
+    padding: 4rem;
+}
+footer img {
+    width: 180px;
+}
